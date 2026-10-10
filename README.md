@@ -1,3 +1,3 @@
 ### CCADAET-MITAppInventor
 
-A repository to record my invented apps in MIT.
+A repository for documenting and organizing my MIT App Inventor projects.
